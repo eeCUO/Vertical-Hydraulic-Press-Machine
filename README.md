@@ -1,23 +1,23 @@
-. Projenin Amacı
+    Project Objective
 
-Bu çalışma, endüstriyel üretim hatlarının en temel ve kritik bileşenlerinden biri olan dikey eksenli bir hidrolik pres makinesinin tasarımından üretim aşamasına kadar olan tüm teknik süreçlerin dokümante edilmesini hedeflemektedir.
+This study aims to document all technical processes from the design to the production stage of a vertical axis hydraulic press machine, which is one of the most fundamental and critical components of industrial production lines.
 
-Günümüzde metal şekillendirme sektöründe; form verme, derin çekme, bükme ve düzeltme gibi operasyonların hassasiyeti, doğrudan nihai ürün kalitesini belirlemektedir. Bu noktada projenin asıl odağı, sadece yüksek kuvvet uygulayan bir mekanizma oluşturmak değil; aynı zamanda:
+Today, in the metal forming sector, the precision of operations such as forming, deep drawing, bending, and straightening directly determines the final product quality. At this point, the main focus of the project is not only to create a mechanism that applies high force but also:
 
-    Yapısal Bütünlük: Statik ve dinamik yükler altında kararlılığın korunması.
+Structural Integrity: Maintaining stability under static and dynamic loads.
 
-    Enerji Verimliliği: Optimize edilmiş güç tüketimi.
+Energy Efficiency: Optimized power consumption.
 
-    Modern İmalat: Güncel endüstriyel standartlara tam uyumluluk.
+Modern Manufacturing: Full compliance with current industrial standards.
 
-2. Projenin Kapsamı
+    Project Scope
 
-Proje; makinenin tüm elektriksel donanım, pano tasarımı ve kontrol metotlarının oluşturulmasını kapsamaktadır. Çalışmanın temel çalışma başlıkları şunlardır:
+The project covers the creation of all electrical hardware, panel design, and control methods of the machine. The main working topics of the study are:
 
-    Elektriksel Bileşen Seçimi: Sistemin çalışma mantığına ve yük gereksinimlerine uygun komponentlerin (PLC, sensörler, valfler, vb.) belirlenmesi.
+Electrical Component Selection: Determining the components (PLC, sensors, valves, etc.) suitable for the working logic and load requirements of the system.
 
-    Pano Tasarımı: Elektriksel bileşenlerin yerleşim planlarının ve bağlantı şemalarının hazırlanması.
+Panel Design: Preparation of layout plans and wiring diagrams for electrical components.
 
-    Kontrol Algoritmaları: Makinenin güvenli ve hassas çalışmasını sağlayacak yazılım mantığının geliştirilmesi.
+Control Algorithms: Developing the software logic that will ensure the safe and precise operation of the machine.
 
-    Operatör Güvenliği: İş güvenliği prosedürlerine uygun güvenlik bariyerleri ve acil durum senaryolarının kurgulanması.
+Operator Safety: Designing safety barriers and emergency scenarios in accordance with occupational safety procedures.
